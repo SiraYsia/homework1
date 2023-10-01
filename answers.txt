@@ -1,0 +1,2 @@
+Question 2: What is a remote repository?
+Answer: A remote repository is a copy of a Git repository hosted on a different server, allowing collaboration and synchronization.
